@@ -1,4 +1,4 @@
-# auto-avia-offer
+# email-handler
 Классификация сообщений по типу заявка не заявка.
 <br>Выделение сущностей из письма.
 <br>Название модели: subm_embs_title_payload_lemmas_minilm.pkl
